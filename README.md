@@ -10,5 +10,6 @@ LWC and PhysicalShop would disagree as to who owns the chest.
 Installing
 ----------
 
-Place the LWC-PhysicalShop.jar file in the plugins/ directory. You're
-done.
+Make sure you have LWC version 4.0 or higher, and PhysicalShop version
+9.0 or higher. Place the LWC-PhysicalShop.jar file in the plugins/
+directory. You're done.
