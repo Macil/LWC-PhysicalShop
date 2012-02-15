@@ -1,0 +1,5 @@
+name: LWC-PhysicalShop
+main: com.minesnap.lwcphysicalshop.LWCPhysicalShop
+version: "${project.version}"
+author: AgentME (agentme49@gmail.com)
+depend: [LWC,PhysicalShop]
