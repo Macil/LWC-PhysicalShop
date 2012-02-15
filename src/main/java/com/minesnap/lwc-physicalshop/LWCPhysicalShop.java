@@ -37,6 +37,7 @@ public class LWCPhysicalShop extends JavaPlugin implements Listener {
         if (!init()) {
             // Listen for plugin enable if we're still waiting on them
             pm.registerEvents(this, this);
+            getLogger().info("Waiting for both PhysicalShop and LWC to be loaded.");
         }
     }
 
